@@ -1,5 +1,6 @@
 package io.vinod.coronavirustracker.models;
 
+
 public class LocationStats {
 
     private String state;

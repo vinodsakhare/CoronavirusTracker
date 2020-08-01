@@ -1,5 +1,6 @@
 package io.vinod.coronavirustracker.controllers;
 
+
 import io.vinod.coronavirustracker.models.LocationStats;
 import io.vinod.coronavirustracker.services.CoronaVirusDataService;
 
